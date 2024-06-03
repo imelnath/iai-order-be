@@ -8,22 +8,22 @@
     Contoh Request Body: <br>
     ````````````
     {
-    "items": [
-        {
-            "name": "Topi",
-            "size": "M",
-            "quantity": 1
-        },
-        {
-            "name": "Celana",
-            "size": "L",
-            "quantity": 1
-        }
-    ],
-    "total": "Rp 1.000.000",
-    "status": "Waiting Payment",
-    "userId": 1
-}
+        "items": [
+            {
+                "name": "Topi",
+                "size": "M",
+                "quantity": 1
+            },
+            {
+                "name": "Celana",
+                "size": "L",
+                "quantity": 1
+            }
+        ],
+        "total": "Rp 1.000.000",
+        "status": "Waiting Payment",
+        "userId": 1
+    }
     ````````````
 2.  Get All Order <br>
     Endpoint: <br>
